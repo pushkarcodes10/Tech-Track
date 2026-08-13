@@ -1,0 +1,4 @@
+com.example.screentimetracker.test.app-androidTest-0 C:\Users\Pushkar Raj\Desktop\ScreenTimeTracker\app\build\generated\res\resValues\androidTest\debug
+com.example.screentimetracker.test.app-mergeDebugAndroidTestResources-1 C:\Users\Pushkar Raj\Desktop\ScreenTimeTracker\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.screentimetracker.test.app-mergeDebugAndroidTestResources-2 C:\Users\Pushkar Raj\Desktop\ScreenTimeTracker\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.screentimetracker.test.app-merged_res-3 C:\Users\Pushkar Raj\Desktop\ScreenTimeTracker\app\build\intermediates\merged_res\debugAndroidTest

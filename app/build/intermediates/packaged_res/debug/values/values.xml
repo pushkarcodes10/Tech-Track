@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="green_active">#FF2E7D32</color>
+    <color name="grey_border">#FFE0E0E0</color>
+    <color name="grey_light">#FFF2F2F2</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="red_stop">#FFC62828</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="admin_pass_change_title">Change Admin Password</string>
+    <string name="admin_pass_confirm_hint">Confirm Password</string>
+    <string name="admin_pass_empty">Password cannot be empty.</string>
+    <string name="admin_pass_enter_msg">Please enter the admin password to proceed:</string>
+    <string name="admin_pass_enter_title">Admin Verification</string>
+    <string name="admin_pass_hint">Password</string>
+    <string name="admin_pass_incorrect">Incorrect password. Please try again.</string>
+    <string name="admin_pass_mismatch">Passwords do not match.</string>
+    <string name="admin_pass_saved">Admin password updated successfully.</string>
+    <string name="admin_pass_set_msg">Create a password to protect the Admin page:</string>
+    <string name="admin_pass_set_title">Set Admin Password</string>
+    <string name="app_name">TechTracker</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_change_password">Change Password</string>
+    <string name="btn_continue_as_admin">Admin Panel</string>
+    <string name="btn_continue_as_user">Continue as User</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_submit">Submit</string>
+    <string name="notification_channel_desc">Shows an ongoing notification while a TechTracker session is being tracked.</string>
+    <string name="notification_channel_name">TechTracker</string>
+    <string name="role_selection_tagline">Select your role to get started</string>
+    <string name="screen_active">Active (Screen On)</string>
+    <string name="screen_paused">Paused (Screen Off)</string>
+    <style name="Theme.ScreenTimeTracker" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/teal_700</item>
+    </style>
+</resources>

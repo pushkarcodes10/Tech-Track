@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Pushkar Raj\\.gradle\\daemon\\8.4\\com.example.screentimetracker.app-mergeDebugResources-41:\\layout\\activity_admin.xml",
+        "source": "C:\\Users\\Pushkar Raj\\.gradle\\daemon\\8.4\\com.example.screentimetracker.app-main-44:\\layout\\activity_admin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pushkar Raj\\.gradle\\daemon\\8.4\\com.example.screentimetracker.app-mergeDebugResources-41:\\layout\\activity_role_selection.xml",
+        "source": "C:\\Users\\Pushkar Raj\\.gradle\\daemon\\8.4\\com.example.screentimetracker.app-main-44:\\layout\\activity_role_selection.xml"
+    },
+    {
+        "merged": "com.example.screentimetracker.app-mergeDebugResources-41:/layout/activity_role_selection.xml",
+        "source": "com.example.screentimetracker.app-main-44:/layout/activity_role_selection.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pushkar Raj\\.gradle\\daemon\\8.4\\com.example.screentimetracker.app-mergeDebugResources-41:\\layout\\activity_user.xml",
+        "source": "C:\\Users\\Pushkar Raj\\.gradle\\daemon\\8.4\\com.example.screentimetracker.app-main-44:\\layout\\activity_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pushkar Raj\\.gradle\\daemon\\8.4\\com.example.screentimetracker.app-mergeDebugResources-41:\\layout\\item_session_history.xml",
+        "source": "C:\\Users\\Pushkar Raj\\.gradle\\daemon\\8.4\\com.example.screentimetracker.app-main-44:\\layout\\item_session_history.xml"
+    }
+]
